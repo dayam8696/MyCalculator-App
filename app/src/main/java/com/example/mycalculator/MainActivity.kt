@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         tvInput = findViewById(R.id.tvInput)
 
     }
+    //dayam
 
     fun onDigit(view: View) {
             tvInput?.append((view as Button).text)
