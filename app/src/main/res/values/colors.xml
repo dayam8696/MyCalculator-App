@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_grey">#EFEFEF</color>
+    <color name="piccker">#DDE6ED</color>
+    <color name="grey">#90a4ae</color>
+    <color name="blackip">#454545</color>
+    <color name="operator_color">#CB5A16</color>
+    <color name="number_color">#591B1A1A</color>
+</resources>
