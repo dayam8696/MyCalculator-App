@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         tvInput = findViewById(R.id.tvInput)
 
     }
-    //dayam
+    //dayam nadeem
 
     fun onDigit(view: View) {
             tvInput?.append((view as Button).text)
